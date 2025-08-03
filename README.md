@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Haii%F0%9F%91%8B%2C+I'm+Rizky+Wahyu+Hidayah;Nice+to+meet+you%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hii+%F0%9F%91%8B%2C+I'm+Wahyu;I'm+new+in+programming+wolrd%F0%9F%8C%90;Nice+to+meet+you%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <h3 align='center'>🎓 an ordinary student at State Vocational High School 4 Tangerang</h3>
 
