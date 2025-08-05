@@ -22,7 +22,7 @@ const MySelf = {
 ```
 
 - 🎯 Currently learning and deepening my skills in **React & Express**
--  Looking to collaborate on **interesting web development projects**
+- 🚹 Looking to collaborate on **interesting web development projects**
 - 📫 Reach me at: **rizkywahyuuuw@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies and always curious about new languages and cultures.!**
 
